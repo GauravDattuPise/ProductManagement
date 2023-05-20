@@ -1,0 +1,27 @@
+{
+  "name": "productmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravDattuPise/ProductManagement.git"
+  },
+  "author": "Gaurav Pise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravDattuPise/ProductManagement/issues"
+  },
+  "homepage": "https://github.com/GauravDattuPise/ProductManagement#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1381.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.0",
+    "validator": "^13.9.0"
+  }
+}
