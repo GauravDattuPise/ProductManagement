@@ -1,4 +1,4 @@
-# productManagement-group-2
+# productManagement
 
 #Californium
 ## Project - Products Management
